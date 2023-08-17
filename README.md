@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  My kaggle account : https://www.kaggle.com/waleedgamaa
+- How to see my work on Tableau : https://public.tableau.com/app/profile/waleed.eid
 
 <!---
 valid999/valid999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
