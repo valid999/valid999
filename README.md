@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate in finance projects 
 - 📫 How to reach me  My kaggle account : https://www.kaggle.com/waleedgamaa
 - How to see my work on Tableau : https://public.tableau.com/app/profile/waleed.eid
-
+- I Like to make new stuff 🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖🤖 !! 
 <!---
 valid999/valid999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
