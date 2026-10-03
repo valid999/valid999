@@ -25,7 +25,7 @@ I am a robotics researcher and PhD candidate at Ulster University focused on dev
 
 | Degree | Institution | Details | Period |
 |--------|-------------|---------|--------|
-| **PhD in Robotics** *(Incoming)* | TBD | Focus: Autonomous Systems & AI | 2026 &ndash; |
+| **PhD in Robotics** | Ulster University | Focus: Autonomous Systems & AI | 2026; |
 | **B.Eng. Mechatronics & Robotics** | South Ural State University, Russia | **GPA: 4.83/5.00** &middot; **Rank: 2nd in class** | 2020 &ndash; 2024 |
 | **Russian Preparatory Course** | South Ural State University | Two-year language certificate | 2019 &ndash; 2021 |
 
