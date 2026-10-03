@@ -17,7 +17,7 @@
 
 **Autonomous Systems** &middot; **Computer Vision for Robotics** &middot; **Deep Learning** &middot; **Sensor-Free Perception** &middot; **AI-Driven Industrial Automation** &middot; **Secure & Trustworthy Robotics**
 
-I am a robotics researcher and incoming PhD candidate focused on developing intelligent, perception-driven autonomous systems. My work bridges **machine learning**, **computer vision**, and **embedded robotics**, with a particular emphasis on **vision-based industrial automation** and **sensor-free robotic control** &mdash; areas I explored extensively during my undergraduate research at South Ural State University.
+I am a robotics researcher and PhD candidate at Ulster University focused on developing intelligent, perception-driven autonomous systems. My work bridges **machine learning**, **computer vision**, and **embedded robotics**, with a particular emphasis on **vision-based industrial automation** and **sensor-free robotic control** &mdash; areas I explored extensively during my undergraduate research at South Ural State University.
 
 ---
 
